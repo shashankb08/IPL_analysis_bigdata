@@ -1,0 +1,339 @@
+MI v/s KKR ( Match 5 )
+
+t=['Kolkata','Kolkata Knight Riders','Mumbai Indians']
+
+bat1=['RV Uthappa','G Gambhir','MK Pandey','AD Russell','YK Pathan','C Munro','SA Yadav','PP Chawla','JW Hastings','Kuldeep Yadav','GB Hogg']
+
+bowl2=['TG Southee','JJ Bumrah','TG Southee','MJ McClenaghan','TG Southee','MJ McClenaghan','HH Pandya','Harbhajan Singh','J Suchith','Harbhajan Singh','J Suchith','MJ McClenaghan','JJ Bumrah','Harbhajan Singh','TG Southee','Harbhajan Singh','JJ Bumrah','MJ McClenaghan','HH Pandya','JJ Bumrah']
+
+bat2=['RG Sharma','PA Patel','HH Pandya','MJ McClenaghan','JC Buttler','KA Pollard','AT Rayudu','Harbhajan Singh','J Suchith','TG Southee','JJ Bumrah']
+
+bowl1=['AD Russell','JW Hastings','AD Russell','GB Hogg','JW Hastings','GB Hogg','PP Chawla','Kuldeep Yadav','PP Chawla','Kuldeep Yadav','PP Chawla','Kuldeep Yadav','JW Hastings','Kuldeep Yadav','GB Hogg','AD Russell','GB Hogg','JW Hastings','AD Russell','PP Chawla']
+
+Actual stat:Mum Indians won by 6 wickets (with 5 balls remaining)
+1:187/5
+2:188/4
+win:MI
+venue:Kolkata
+
+
+
+SRH v/s KKR ( Match 8 )
+
+t=['Hyderabad','Surisers Hyderabad','Kolkata Knight Riders']
+
+bat1=['DA Warner','S Dhawan','MC Henriques','EJG Morgan','DJ Hooda','NV Ojha','A Ashish Reddy','KV Sharma','B Kumar','Mustafizur Rahman','BB Sran']
+
+bowl2=['M Morkel','UT Yadav',M Morkel','UT Yadav','Shakib Al Hasan','UT Yadav','Shakib Al Hasan','AD Russell','SP Narine','AD Russell','SP Narine','AD Russell','SP Narine','PP Chawla','SP Narine','M Morkel','Shakib Al Hasan','M Morkel','UT Yadav','AD Russel']
+
+bat2=['RV Uthappa','G Gambhir','MK Pandey','AD Russell','YK Pathan','Shakib Al Hasan','SA Yadav','PP Chawla','SP Narine','M Morkel','UT Yadav']
+
+bowl1=['B Kumar','BB Sran','B Kumar','BB Sran','Mustafizur Rahman','BB Sran','KV Sharma','MC Henriques','B Kumar','MC Henriques','KV Sharma','Mustafizur Rahman','A Ashish Reddy','Mustafizur Rahman','A Ashish Reddy','BB Sran','B Kumar','Mustafizur Rahman','KV Sharma','MC Henriques']
+
+Actual stat:KKR won by 8 wickets (with 10 balls remaining)
+1:142/7
+2:146/2
+win:KKR
+venue:Hyderabad
+
+
+
+RCB v/s DD ( Match 11 )
+
+t=['Bengaluru','Delhi Daredevils','Royal Challengers Bangalore']
+
+bat1=['CH Gayle','V Kohli','AB de Villiers','SR Watson','SN Khan','KM Jadhav','D Wiese','Parvez Rasool','HV Patel','YS Chahal','S Aravind']
+
+bowl2=['Z Khan','CH Morris','Z Khan','Mohammed Shami','Z Khan','CH Morris','P Negi','A Mishra','P Negi','A Mishra','P Negi','CR Brathwaite','Mohammed Shami','CR Brathwaite','A Mishra','Z Khan','Mohammed Shami','CH Morris','Mohammed Shami','CH Morris']
+
+bat2=['Q de Kock','SS Iyer','SV Samson','KK Nair','JP Duminy','CR Brathwaite','CH Morris','P Negi','Z Khan','A Mishra','Mohammed Shami']
+
+bowl1=['S Aravind','Parvez Rasool','S Aravind','SR Watson','Parvez Rasool','SR Watson','YS Chahal','D Wiese','HV Patel','D Wiese','Parvez Rasool','HV Patel','YS Chahal','D Wiese','SR Watson','S Aravind','HV Patel','D Wiese','SR Watson','YS Chahal']
+
+
+Actual stat:Daredevils won by 7 wickets (with 5 balls remaining)
+1:191/5
+2:192/3
+win:DD
+Venue:Bengaluru
+
+
+
+
+16th match (N), Indian Premier League at Pune, Apr 22 2016
+
+t=['Pune','Royal Challengers Bangalore','Rising Pune Supergiant']
+
+bat1=['V Kohli','AB de Villiers','KL Rahul','SR Watson','SN Khan','Mandeep Singh','STR Binny','HV Patel','KW Richardson','T Shamsi','Iqbal Abdulla']
+
+bowl2=['I Sharma','NLTC Perera','I Sharma','NLTC Perera','Ankit Sharma','I Sharma','R Bhatia','R Ashwin','Ankit Sharma','R Bhatia','M Ashwin','R Ashwin','Ankit Sharma','M Ashwin','Ankit Sharma','R Ashwin','R Bhatia','NLTC Perera','I Sharma','NLTC Perera']
+
+bat2=['AM Rahane','F du Plesis','KP Pieterson','SPD Smith','MS Dhoni','NLTC Perera','R Bhatia','R Ashwin','Ankit Sharma','M Ashwin','I Sharma']
+
+bowl1=['STR Binny','KW Richardson','HV Patel','KW Richardson','HV Patel','SR Watson','T Shamsi','STR Binny','T Shamsi','Iqbal Abdulla','T Shamsi','Iqbal Abdulla','SR Watson','Iqbal Abdulla','T Shamsi','HV Patel','SR Watson','HV Patel','SR Watson','KW Richardson']
+
+Actual stat:
+
+1:185/3
+
+2:172/8
+
+win:RCB won by 13 runs
+
+venue:Pune
+
+
+
+
+
+20th match (N), Indian Premier League at Pune, Apr 24 2016
+
+t=['Pune','Rising Super Giants','Kolkata Knight Riders']
+
+bat1=['AM Rahane','F du Plesis','SPD Smith','NLTC Perera','JA Morkel','MS Dhoni','R Bhatia','SS Tiwary','R Ashwin','Ankit Sharma','M Ashwin']
+
+bowl2=['M Morkel','AD Russell','M Morkel','Shakib Al Hasan','SP Narine','Shakib Al Hasan','AD Russell','Shakib Al Hasan','PP Chawla','R Satish','PP Chawla','SP Narine','R Satish','SP Narine','R Satish','PP Chawla','UT Yadav','SP Narine','UT Yadav','M Morkel']
+
+bat2=['RV Uthappa','G Gambhir','SA Yadav','Shakib Al Hasan','YK Pathan','AD Russell','R Satish','PP Chawla','SP Narine','M Morkel','UT Yadav']
+
+bowl1=['JA Morkel','NLTC Perera','JA Morkel','R Ashwin','NLTC Perera','R Ashwin','R Bhatia','Ankit Sharma','R Bhatia','M Ashwin','Ankit Sharma','M Ashwin','R Bhatia','M Ashwin','R Bhatia','M Ashwin','Ankit Sharma','NLTC Perera','JA Morkel','NLTC Perera']
+
+Actual stat:KKR won by 2 wickets (with 3 balls remaining)
+1:160/5
+2:162/8
+win:KKR
+venue:Pune
+
+
+
+
+
+23rd match (N), Indian Premier League at Delhi, Apr 27 2016
+
+    Gujarat Lions
+    172/6
+    Delhi Daredevils
+    171/5 (20 ov)
+GL won by 1 run
+
+t=['Delhi','Gujarat Lions','Delhi Daredevils']
+
+bat1=['DR Smith','BB McCullum','SK Raina','KD Karthik','RA Jadeja','Ishan Kishan','DJ Bravo','JP Faulkner','P Kumar','DS Kulkarni','PV Tambe']
+
+bowl2=['Z Khan','S Nadeem','Z Khan','S Nadeem','CH Morris','Z Khan','S Nadeem','A Mishra','Imran Tahir','A Mishra','Imran Tahir','CH Morris','Imran Tahir','A Mishra','JP Duminy','S Nadeem','Imran Tahir','CH Morris','Z Khan','CH Morris']
+
+bat2=['Q de Kock','SV Samson','KK Nair','JP Duminy','RR Pant','CH Morris','P Negi','A Mishra','Z Khan','S Nadeem','Imran Tahir']
+
+bowl1=['P Kumar','DS Kulkarni','P Kumar','DS Kulkarni','P Kumar','DS Kulkarni','DJ Bravo','SK Raina','DR Smith','SK Raina','JP Faulkner','RA Jadeja','JP Faulkner','DJ Bravo','PV Tambe','DS Kulkarni','DR Smith','DJ Bravo','P Kumar','DJ Bravo']
+
+
+
+Result
+32nd match (N), Indian Premier League at Kolkata, May 4 2016
+
+    Kolkata Knight Riders
+    164/3
+    Kings XI Punjab
+    157/9 (20 ov)
+
+KKR won by 7 runs
+
+t=['Kolkata','Kolkata Knight Riders','Kings XI Punjab']
+
+bat1=['RV Uthappa','G Gambir','YK Pathan','AD Russell','MK Pandey','SA Yadav','Shakib Al Hasan','GB Hogg','PP Chawla','M Morkel','UT Yadav']
+
+bowl2=['AD Russell','M Morkel','AD Russell','M Morkel','UT Yadav','M Morkel','UT Yadav','Shakib Al Hasan','PP Chawla','GB Hogg','PP Chawla','GB Hogg','PP Chawla','UT Yadav','Shakib Al Hasan','PP Chawla','Shakib Al Hasan','AD Russell','M Morkel','AD Rusell']
+
+bat2=['M Vijay','MP Stoinis','M Vohra','W Saha','GJ Maxwell','DA Miller','Gurkeerat Singh','AR Patel','Swapnil Singh','MM Sharma','Sandeep Sharma']
+
+bowl1=['Sandeep Sharma','MM Sharma','MP Stoinis','MM Sharma','AR Patel','MP Stoinis','Swapnil Singh','Gurkeerat Singh','AR Patel','Swapnil Singh','MP Stoinis','AR Patel','GJ Maxwell','Sandeep Sharma','Swapnil Singh','AR Patel','MM Sharma','Sandeep Sharma','MM Sharma','Sandeep Sharma']
+
+
+
+Result
+Final (N), Indian Premier League at Bengaluru, May 29 2016
+
+    Sunrisers Hyderabad
+    208/7
+    Royal Challengers Bangalore
+    200/7 (20 ov)
+
+Sunrisers won by 8 runs
+
+t=['Bengaluru,'Sunrisers Hyderabad','Royal Challengers Bangalore']
+
+bat1=['DA Warner','S Dhawan','MC Henriques','Yuvraj Singh','DJ Hooda','BCJ Kutting','NV Ojha','Bipul Sharma','B Kumar','BB Sran','Mustafizur Rahman']
+
+bowl2=['','','','','','','','','','','','','','','','','','','','']
+
+bat2=['CH Gayle','V Kohli','AB de Villiers','KL Rahul','SR Watson','Sachin Baby','STR Binny','CJ Jordan','Iqbal Abdulla','S Aravind','YS Chahal']
+
+bowl1=['B Kumar','BB Sran','B Kumar','BB Sran','BCJ Kutting','Mustafizur Rahman','MC Henriques','BCJ Kutting','MC Henriques','Mustafizur Rahman','BCJ Kutting','Bipul Sharma','BB Sran','Bipul Sharma','MC Henriques','BCJ Kutting','Mustafizur Rahman','B Kumar','Mustafizur Rahman','B Kumar']
+
+
+
+
+Result
+52nd match (N), Indian Premier League at Raipur, May 20 2016
+
+    Sunrisers Hyderabad
+    158/7
+    Delhi Daredevils
+    161/4 (20 ov)
+
+Daredevils won by 6 wickets (with 0 balls remaining)
+
+t=['Raipur','Sunrisers Hyderabad','Delhi Daredevils']
+
+
+bat1=['DA Warner','S Dhawan','DJ Hooda','Yuvraj Singh','MC Henriques','EJG Morgan','NV Ojha','B Kumar','KV Sharma','Mustafizur Rahman','BB Sran']
+
+bowl2=['Z Khan','J Yadav','Z Khan','NM Coulter-Nile','J Yadav','CR Brathwaite','A Mishra','NM Coulter-Nile','J Yadav','CR Brathwaite','A Mishra','CR Brathwaite','J Yadav','JP Duminy','A Mishra','CR Brathwaite','Z Khan','NM Coulter-Nile','Z Khan','NM Coulter-Nile']
+
+bat2=['Q de Kock','RR Pant','KK Nair','JP Duminy','CR Brathwaite','SV Samson','P Negi','A Mishra','Z Khan','J Yadav','NM Coulter-Nile']
+
+bowl1=['B Kumar','BB Sran','B Kumar','Mustafizur Rahman','BB Sran','Mustafizur Rahman','MC Henriques','DJ Hooda','MC Henriques','KV Sharma','Yuvraj Singh','KV Sharma','DJ Hooda','KV Sharma','BB Sran','Mustafizur Rahman','','B Kumar','Mustafizur Rahman','B Kumar']
+
+
+
+
+
+
+Result
+47th match (N), Indian Premier League at Visakhapatnam, May 15 2016
+
+    Mumbai Indians
+    206/4
+    Delhi Daredevils
+    126 (19.1/20 ov)
+
+Mum Indians won by 80 runs
+
+t=['Visakhapatnam','Mumbai Indians','Delhi Daredevils']
+
+
+bat1=['RG Sharma','MJ Guptill','KH Pandya','KA Pollard','JC Buttler','AT Rayudu','N Rana','Harbhajan Singh','R Vinay Kumar','MJ McClenaghan','JJ Bumrah']
+
+bowl2=['S Nadeem','CH Morris','Z Khan','CH Morris','Z Khan','S Nadeem','A Mishra','Imran Tahir','A Mishra','Imran Tahir','A Mishra','S Nadeem','Imran Tahir','S Nadeem','Z Khan','A Mishra','Z Khan','CH Morris','Imran Tahir','CH Morris']
+
+bat2=['MA Agarwal','Q de Kock','KK Nair','SV Samson','RR Pant','JP Duminy','CH Morris','A Mishra','S Nadeem','Imran Tahir','Z Khan']
+
+bowl1=['Harbhajan Singh','R Vinay Kumar','MJ McClenaghan','R Vinay Kumar','Harbhajan Singh','JJ Bumrah','Harbhajan Singh','KH Pandya','Harbhajan Singh','KH Pandya','N Rana','MJ McClenaghan','JJ Bumrah','MJ McClenaghan','R Vinay Kumar','JJ Bumrah','R Vinay Kumar','MJ McClenaghan','JJ Bumrah','KH Pandya']
+
+
+
+
+
+
+
+
+
+
+2018 STATS :
+
+
+
+
+
+
+
+
+Result
+1st match (N), Indian Premier League at Mumbai, Apr 7 2018
+
+    Mumbai Indians
+    165/4
+    Chennai Super Kings
+    169/9 (19.5/20 ov)
+
+Super Kings won by 1 wicket (with 1 ball remaining)
+
+t=['Mumbai','Mumbai Indians','Chennai Super Kings']
+
+
+bat1=['RG Sharma','E Lewis','Ishan Kishan','SA Yadav','HH Pandya','KH Pandya','KA Pollard','JJ Bumrah','MJ McClenaghan','Mustafizur Rahman','M Markande']
+
+bowl2=['DL Chahar','SR Watson','DL Chahar','SR Watson','DL Chahar','SR Watson','Harbhajan Singh','RA Jadeja','Harbhajan Singh','MA Wood','Imran Tahir','DJ Bravo','SR Watson','MA Wood','Imran Tahir','DJ Bravo','MA Wood','DJ Bravo','MA Wood','DJ Bravo']
+
+bat2=['SR Watson','AT Rayudu','SK Raina','KM Jadhav','MS Dhoni','RA Jadeja','DJ Bravo','DL Chahar','Harbhajan Singh','MA Wood','Imran Tahir']
+
+bowl1=['MJ McClenaghan','Mustafizur Rahman','JJ Bumrah','HH Pandya','MJ McClenaghan','HH Pandya','M Markande','JJ Bumrah','M Markande','HH Pandya','M Markande','Mustafizur Rahman','M Markande','Mustafizur Rahman','MJ McClenaghan','JJ Bumrah','HH Pandya','MJ McClenaghan','JJ Bumrah','Mustafizur Rahman']
+
+
+
+
+Result
+54th match (N), Indian Premier League at Hyderabad, May 19 2018
+
+    Sunrisers Hyderabad
+    172/9
+    Kolkata Knight Riders
+    173/5 (19.4/20 ov)
+
+KKR won by 5 wickets (with 2 balls remaining)
+
+t=['Hyderabad','Sunrisers Hyderabad','Kolkata Knight Riders']
+
+
+bat1=['S Dhawan','SP Goswami','KS Williamson','MK Pandey','YK Pathan','CR Brathwaite','Shakib Al Hasan','Rashid Khan','B Kumar','S Kaul','Sandeep Sharma']
+
+bowl2=['N Rana','M Prasidh Krishna','AD Russell','SP Narine','PP Chawla','SP Narine','Kuldeep Yadav','JPR Scantlebury-Searles','Kuldeep Yadav','PP Chawla','Kuldeep Yadav','SP Narine','JPR Scantlebury-Searles','Kuldeep Yadav','AD Russell','M Prasidh Krishna','SP Narine','M Prasidh Krishna',''AD Russell,'M Prasidh Krishna']
+
+bat2=['CA Lynn','SP Narine','RV Uthappa','KD Karthik','AD Russell','N Rana','Shubman Gill','PP Chawla','JPR Scantlebury-Searles','Kuldeep Yadav','M Prasidh Krishna']
+
+bowl1=['B Kumar','Sandeep Sharma','S Kaul','Shakib Al Hasan','B Kumar','S Kaul','Rashid Khan','CR Brathwaite','Rashid Khan','Shakib Al Hasan','Sandeep Sharma','Shakib Al Hasan','Rashid Khan','S Kaul','B Kumar','Rashid Khan','CR Brathwaite','S Kaul','B Kumar','CR Brathwaite']
+
+
+
+
+
+
+
+t=['Chennai','Kolkata Knight Riders','Chennai Super Kings']
+bat1=['CA Lynn','SP Narine','RV Uthappa','N Rana','KD Karthik','RK Singh','AD Russell','TK Curran','R Vinay Kumar', 'Kuldeep Yadav', 'PP Chawla']
+
+bowl2=['DL Chahar','Harbhajan Singh','SR Watson','RA Jadeja','Imran Tahir','RA Jadeja','Harbhajan Sing','SN Thakur','SR Watson','SN Thakur','Imran Tahir','SR Watson','Imran Tahir','DJ Bravo','Imran Tahir','SN Thakur','DJ Bravo','SR Watson','DJ Bravo','SN Thakur']
+
+bat2=['SR Watson','AT Rayudu','SK Raina','MS Dhoni','SW Billings','RA Jadeja','DJ Bravo','DL Chahar', 'Harbhajan Singh', 'SN Thakur', 'Imran Tahir']
+
+bowl1=['R Vinay Kumar','PP Chawla','AD Russell','PP Chawla','AD Russell','TK Curran','AD Russell','SP Narine','Kuldeep Yadav','SP Narine','Kuldeep Yadav','SP Narine','PP Chawla','Kuldeep Yadav','TK Curran','SP Narine','PP Chawla','AD Russell','TK Curran','Vinay Kumar']
+
+
+Actual stat:
+match no: Finals
+1:202/6 (20)
+
+2:205/5 (19.5)
+
+win:Chennai Super Kings
+
+venue:Chennai
+
+
+
+
+
+
+
+
+
+
+
+#2018 KXI won by 15 runs
+
+
+t=['Chandigarh','Kings XI Punjab ','Sunrisers Hyderabad']
+
+bat1=['KL Rahul','CH Gayle','MA Agarwal','KK Nair','AJ Finch','Yuvraj Singh','R Ashwin','AJ Tye', 'BB Sran', 'MM Sharma', 'Mujeeb Ur Rahman']
+bowl2=['B Kumar','CJ Jordan','B Kumar','CJ Jordan','Rashid Khan','S Kaul','DJ Hooda','Rashid Khan','DJ Hooda','Shakib Al Hasan','S Kaul','Shakib Al Hasan','CJ Jordan','Rashid Khan','S Kaul','B Kumar','CJ Jordan','B Kumar','S Kaul','Rashid Khan']
+bat2=['WP Saha','S Dhawan','KS Williamson','YK Pathan','MK Pandey','DJ Hooda','Shakib Al Hasan','CJ Jordan', 'B Kumar', 'Rashid Khan', 'S Kaul']
+bowl1=['BB Sran','MM Sharma','BB Sran','AJ Tye','MM Sharma','BB Sran','R Ashwin','Mujeeb Ur Rahman','R Ashwin','Mujeeb Ur Rahman','AJ Tye','Mujeeb Ur Rahman','MM Sharma','R Ashwin','AJ Tye','Mujeeb Ur Rahman','AJ Tye','BB Sran','MM Sharma','R Ashwin']
+
+
+match 16
+t1:193/3(20)
+
+t2:178/4(20)
+
+win:KXIP
+venue:Chandigarh
